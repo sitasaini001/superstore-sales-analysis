@@ -10,7 +10,7 @@ Covers data collection, cleaning, SQL querying, and visual insights.
 - **Features:** Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category     
   Product Name,Sales
 
-  ## 🔧 Tools & Technologies
+## Tools & Technologies
 | Tool | Purpose |
 |------|---------|
 | Python (Pandas) | Data Cleaning |
