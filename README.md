@@ -29,15 +29,7 @@ Covers data collection, cleaning, SQL querying, and visual insights.
 - The **West** and **East** regions recorded the highest revenue, with **710,219.68** and **669,518.72** respectively.
 
 ## Project Structure
-superstore-sales-analysis/
-├── data/
-│   ├── raw/                  # Original dataset
-│   └── processed/            # Cleaned dataset
-├── notebooks/
-│   ├── 02_data_cleaning.ipynb
-│   └── 03_data_visualization.ipynb
-├── sql/                      # SQL queries
-└── README.md
+<img width="1024" height="1536" alt="3262efcd-8fac-4ea8-87f8-7c103cdb009d" src="https://github.com/user-attachments/assets/262b096b-4a1a-47d8-a5e9-b71ccf0605e1" />
 
 ## Sample Visualizations
 ![Sales by Region]
