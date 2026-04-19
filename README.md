@@ -31,6 +31,20 @@ Covers data collection, cleaning, SQL querying, and visual insights.
 ## Project Structure
 <img width="1536" height="1024" alt="62eb83e4-fbcb-4557-87f2-c685e60b5c39" src="https://github.com/user-attachments/assets/bc684311-bfcc-40d2-aa25-8225dde6dc21" />
 
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| Python 3.x | Core programming language |
+| Pandas | Data cleaning & manipulation |
+| NumPy | Numerical computations |
+| Matplotlib | Static chart creation |
+| Plotly | Interactive charts |
+| SQL | Data querying & aggregation |
+| Jupyter Notebook | Development environment |
+| Kaggle | Dataset source |
+| GitHub | Version control & hosting |
+
 ## Sample Visualizations
 ![Sales by Region]
 <img width="389" height="412" alt="download" src="https://github.com/user-attachments/assets/a939259a-ec4b-42d5-952d-9fcba6cb77bd" />
