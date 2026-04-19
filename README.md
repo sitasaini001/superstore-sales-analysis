@@ -10,6 +10,15 @@ Covers data collection, cleaning, SQL querying, and visual insights.
 - **Features:** Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category     
   Product Name,Sales
 
+  ## 🔧 Tools & Technologies
+| Tool | Purpose |
+|------|---------|
+| Python (Pandas) | Data Cleaning |
+| Matplotlib / Seaborn / Plotly | Data Visualization |
+| SQL | Data Querying |
+| Jupyter Notebook | Development Environment |
+
+
 ## Key Insights
 - A large portion of yearly revenue is concentrated in one month.Business heavily depends on **November** performance.
 - Jan–Feb show lowest order volume,March to August shows moderate and stable orders and Orders increase sharply from September to November.
@@ -30,20 +39,6 @@ Covers data collection, cleaning, SQL querying, and visual insights.
 
 ## Project Structure
 <img width="1536" height="1024" alt="62eb83e4-fbcb-4557-87f2-c685e60b5c39" src="https://github.com/user-attachments/assets/bc684311-bfcc-40d2-aa25-8225dde6dc21" />
-
-## 🛠️ Tech Stack
-
-| Tool | Purpose |
-|------|---------|
-| Python 3.x | Core programming language |
-| Pandas | Data cleaning & manipulation |
-| NumPy | Numerical computations |
-| Matplotlib | Static chart creation |
-| Plotly | Interactive charts |
-| SQL | Data querying & aggregation |
-| Jupyter Notebook | Development environment |
-| Kaggle | Dataset source |
-| GitHub | Version control & hosting |
 
 ## Sample Visualizations
 ![Sales by Region]
