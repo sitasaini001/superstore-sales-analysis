@@ -29,7 +29,7 @@ Covers data collection, cleaning, SQL querying, and visual insights.
 - The **West** and **East** regions recorded the highest revenue, with **710,219.68** and **669,518.72** respectively.
 
 ## Project Structure
-<img width="1024" height="1536" alt="3262efcd-8fac-4ea8-87f8-7c103cdb009d" src="https://github.com/user-attachments/assets/262b096b-4a1a-47d8-a5e9-b71ccf0605e1" />
+<img width="1536" height="1024" alt="62eb83e4-fbcb-4557-87f2-c685e60b5c39" src="https://github.com/user-attachments/assets/bc684311-bfcc-40d2-aa25-8225dde6dc21" />
 
 ## Sample Visualizations
 ![Sales by Region]
