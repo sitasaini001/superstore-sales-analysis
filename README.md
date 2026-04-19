@@ -17,16 +17,16 @@ Covers data collection, cleaning, SQL querying, and visual insights.
   1.**2016**- ~20.3%(lowest).
   2.**2017**- ~26.5%
   3.**2018**- ~31.9%(highest)
--In 2018, the business achieved peak performance with the highest number of customers and orders.Customer count drops slightly in 2016 but orders still grow.
+- In 2018, the business achieved peak performance with the highest number of customers and orders.Customer count drops slightly in 2016 but orders still grow.
  Orders growing faster than customers.
--**Technology** contributes the highest portion of revenue at 36.6%.
--Only **10 products** drive **21.7%** of total sales; high efficiency but creates dependency risk.
--Revenue does not scale linearly with order count.Most transactions are clustered below **$10,000**, regardless of how many orders are placed.
--**Machines** is a highest performing sub-category by sales.
--**The Powerhouse Bucket**: The $1K – 4.9K range is your revenue champion, generating over **$1 million** despite having fewer orders than the lower tiers.
--The **Consumer segment** is your massive revenue driver, generating over **$1.1 million—nearly** double the revenue of the Corporate segment.
--**Sean Miller** is your most significant customer by far, with an average order size exceeding $20,000—nearly double that of the next highest customer.
--The **West** and **East** regions recorded the highest revenue, with **710,219.68** and **669,518.72** respectively.
+- **Technology** contributes the highest portion of revenue at 36.6%.
+- Only **10 products** drive **21.7%** of total sales; high efficiency but creates dependency risk.
+- Revenue does not scale linearly with order count.Most transactions are clustered below **$10,000**, regardless of how many orders are placed.
+- **Machines** is a highest performing sub-category by sales.
+- **The Powerhouse Bucket**: The $1K – 4.9K range is your revenue champion, generating over **$1 million** despite having fewer orders than the lower tiers.
+- The **Consumer segment** is your massive revenue driver, generating over **$1.1 million—nearly** double the revenue of the Corporate segment.
+- **Sean Miller** is your most significant customer by far, with an average order size exceeding $20,000—nearly double that of the next highest customer.
+- The **West** and **East** regions recorded the highest revenue, with **710,219.68** and **669,518.72** respectively.
 
 ## Project Structure
 superstore-sales-analysis/
@@ -40,8 +40,12 @@ superstore-sales-analysis/
 └── README.md
 
 ## Sample Visualizations
-![Sales by Region](images/sales_by_region.png
-![Monthly Trend](images/monthly_trend.png)
+![Sales by Region]
+<img width="389" height="412" alt="download" src="https://github.com/user-attachments/assets/a939259a-ec4b-42d5-952d-9fcba6cb77bd" />
+![Average Order SIze per Customer]
+<img width="681" height="457" alt="download" src="https://github.com/user-attachments/assets/0784e165-ce16-4298-9328-45b6e1b9c0ec" />
+![Revenue and Orders by order Size Bucket]
+<img width="638" height="478" alt="download" src="https://github.com/user-attachments/assets/c207ea0e-18a1-4cbe-9c37-3299764f5c2d" />
 
 ## Author
 **Sita**  
